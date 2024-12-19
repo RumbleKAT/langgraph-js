@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "@langchain/community": "^0.3.19",
+    "@langchain/core": "^0.3.25",
+    "@langchain/langgraph": "^0.2.34",
     "@langchain/ollama": "^0.1.4"
   }
 }
