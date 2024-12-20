@@ -13,6 +13,8 @@
     "@langchain/community": "^0.3.19",
     "@langchain/core": "^0.3.25",
     "@langchain/langgraph": "^0.2.34",
-    "@langchain/ollama": "^0.1.4"
+    "@langchain/ollama": "^0.1.4",
+    "@langchain/textsplitters": "^0.1.0",
+    "langchain": "^0.3.7"
   }
 }
